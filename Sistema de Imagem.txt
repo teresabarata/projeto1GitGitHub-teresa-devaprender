@@ -1,1 +1,4 @@
 Cria imagens em .png
+foto 1
+foto 2
+foto 3
